@@ -10,10 +10,11 @@
 ![preview img](/preview.png)
 
 ##
-✨ FeaturesResponsive Design: Optimized layout for all screen sizes using CSS media queries and flexible grid systems.
-Interactive Menu: A visually appealing section to display food items, descriptions, and pricing.
-Online Reservations/Booking: A dedicated form for customers to easily book a table (functionality may require backend integration).Location & Contact: Clear display of the restaurant's address, operating hours, and contact details.
-Image Gallery: A section to showcase high-quality images of the dishes and ambiance.Call-to-Action (CTA): Prominent buttons for key actions like "Order Now" or "Book a Table."
+✨ FeaturesResponsive 
+-> Design: Optimized layout for all screen sizes using CSS media queries and flexible grid systems.
+-> Interactive Menu: A visually appealing section to display food items, descriptions, and pricing.
+-> Image Gallery: A section to showcase high-quality images of the dishes and ambiance.
+Call-to-Action (CTA): Prominent buttons for key actions like "Order Now" or "Book a Table."
 
 ##
 ⚙️ Technologies 
