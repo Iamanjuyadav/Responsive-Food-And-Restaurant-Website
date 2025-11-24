@@ -17,11 +17,10 @@
 Call-to-Action (CTA): Prominent buttons for key actions like "Order Now" or "Book a Table."
 
 ##
-⚙️ Technologies 
-UsedTechnologyPurpose:-
-HTML5Structure and semantic markup.
-CSS3Styling, responsiveness, and 
-layout (Flexbox/Grid).JavaScript (Optional)
+⚙️ Technologies : UsedTechnologyPurpose:- <br>
+1.) HTML5Structure and semantic markup.<br>
+2.) CSS3Styling, responsiveness, and <br>
+3.) layout (Flexbox/Grid).JavaScript (Optional)<br>
 Minor interactivity (e.g., mobile navigation toggle, form validation)
 
 
