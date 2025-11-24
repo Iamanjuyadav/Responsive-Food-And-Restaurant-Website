@@ -11,9 +11,9 @@
 
 ##
 ✨ FeaturesResponsive 
--> Design: Optimized layout for all screen sizes using CSS media queries and flexible grid systems.
--> Interactive Menu: A visually appealing section to display food items, descriptions, and pricing.
--> Image Gallery: A section to showcase high-quality images of the dishes and ambiance.
+-> Design: Optimized layout for all screen sizes using CSS media queries and flexible grid systems.</br>
+-> Interactive Menu: A visually appealing section to display food items, descriptions, and pricing.</br>
+-> Image Gallery: A section to showcase high-quality images of the dishes and ambiance.</br>
 Call-to-Action (CTA): Prominent buttons for key actions like "Order Now" or "Book a Table."
 
 ##
